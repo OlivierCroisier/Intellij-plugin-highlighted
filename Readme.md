@@ -1,7 +1,7 @@
 # Highlighted : an IntelliJ plugin
 
 This is a proof-of-concept for a plugin that would allow to highlight text in editors.
-Highlights are not persisted, so they disappear when the editor tab is closed.
+Highlights are not persisted, so they disappear when the editor tab is closed. Multiple selections supported !
 
 I think this feature can be somewhat useful when teaching, mob programming, reviewing pull requests, or just when you want to keep track of some information when reading or debugging code.
 
